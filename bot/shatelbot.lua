@@ -294,7 +294,7 @@ function create_config( )
     "id_2",
     "tekrar"
     },
-    sudo_users = {121382200,174665816(our_id)},--Sudo users
+    sudo_users = {121382200,174665816},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[SHATEL TEAM BOT
