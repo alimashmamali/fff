@@ -221,29 +221,33 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {121382200,174665816(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+    about_text = [[SHATEL TEAM BOT
+😊sha🚀tel bot🤖💦
+💎V2🔪
+🏆POWERED BYE💪🏻
+☠AMIR BLACK WOLF☠
+🙏Special Thanks to @ThisIsamirh for anything✊
+💀sudo😈
+@Amirm_wolfshon
+😃admins😴
+@Hazrateh_Bi_Asab
+@skywhite
+@nothing_am
+@Lompan
+@ananymous0
+@mr_professor
+@sokot1010
+@X_tfb_sudo
+👻our team bot🤖
+@teleover
+@telehard
+🔥ZS🔥 📛group📛
+Made In🇮🇷
+Our Channel🗣
+@shatel_team
 ]],
     help_text_realm = [[
 Realm Commands:
