@@ -294,33 +294,11 @@ function create_config( )
     "id_2",
     "tekrar"
     },
-    sudo_users = {121382200,174665816},--Sudo users
+    sudo_users = {0000000},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[SHATEL TEAM BOT
-😊sha🚀tel bot🤖💦
-💎V2🔪
-🏆POWERED BYE💪🏻
-☠AMIR BLACK WOLF☠
-🙏Special Thanks to @ThisIsamirh for anything✊
-💀sudo😈
-@Amirm_wolfshon
-😃admins😴
-@Hazrateh_Bi_Asab
-@skywhite
-@nothing_am
-@Lompan
-@ananymous0
-@mr_professor
-@sokot1010
-@X_tfb_sudo
-👻our team bot🤖
-@teleover
-@telehard
-🔥ZS🔥 📛group📛
-Made In🇮🇷
-Our Channel🗣
-@shatel_team
+    about_text = [[TeLe MaGmA BOT beta
+amir w.h
 ]],
     help_text_realm = [[
 Realm Commands:
